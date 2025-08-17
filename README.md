@@ -41,7 +41,7 @@ pip install ultralytics matplotlib numpy pillow
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/your-username/wheat-detection.git
+    git clone https://github.com/shervinnd/wheat-detection.git
     cd wheat-detection
     ```
 
