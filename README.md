@@ -97,9 +97,7 @@ for result in results:
 ## 📊 Results
 
 The trained model outputs bounding boxes around wheat heads in images.
-Results are saved in the `runs/detect` directory. Example output:
-
-![Wheat Detection Example](sample_output.jpg)\## 🤝 Contributing
+Results are saved in the `runs/detect` directory. 
 
 Contributions are welcome! 🌟 Feel free to:
 
